@@ -15,8 +15,8 @@ export default defineConfig({
   base: '/',
   //修改存放静态资源管理包
   build: {
-    outDir: 'asste',
-    assetsDir: 'aaaa'
+    outDir: 'dists',
+    assetsDir: 'assetss'
   },
   //跨域配置项
   server: {
